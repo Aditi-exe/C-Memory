@@ -51,7 +51,7 @@ int main()
 		scanf("%d", &ptr2[i]);
 	}
 	
-	printf("\nEntered array of numbers:\n");
+	printf("\nEntered array of numbers with their memory addresses:\n\n");
 	
 	for(i = 0; i < 3; i++)
 	{
